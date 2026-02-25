@@ -9,3 +9,6 @@ Bakasyonista means vacationer or tourist in Tagalog.
 This tool teaches you common phrases to use while traveling to the Phillipines. 
 
 You can upload photos from moments when you used a phrase such as: "Isa order nang lumpia" meaning "One more order of lumpia, please!". Your photos are available in a travel photo album to then reflect on your trip!
+
+Access it live here!
+https://bakasyonista-photos-ogrq06jtl-mishcodings-projects.vercel.app/
